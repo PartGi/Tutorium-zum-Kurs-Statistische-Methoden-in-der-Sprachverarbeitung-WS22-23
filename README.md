@@ -14,8 +14,11 @@
 * [Speech_and_Language_Processing_Jurafsky_Martin](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Speech_and_Language_Processing_Jurafsky_Martin.pdf)
 
 
-
+<center>
+  
 | Datum | Folien | Anmerkungen
 | ----------- | ----------- |
 | Header | Title | Sonstiges
 | Paragraph | Text | Sonstiges
+  
+</center>
