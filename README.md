@@ -1,4 +1,4 @@
-# Tutorium zum Kurs Statistische Methoden in der Sprachverarbeitung - WS 22/23
+# Tutorium zum Kurs "Statistische Methoden in der Sprachverarbeitung" - WS 22/23
 
 * Tutor: Ioannis Partalas
 * Kontakt: i.partalas@campus.lmu.de
@@ -13,10 +13,12 @@
 
 
 <div align="center">
+<table>
 
 | Datum | Folien | Anmerkungen
 | ----------- | ----------- |
 | Header | Title | Sonstiges
 | Paragraph | Text | Sonstiges
-  
+
+</table>
 </div>
