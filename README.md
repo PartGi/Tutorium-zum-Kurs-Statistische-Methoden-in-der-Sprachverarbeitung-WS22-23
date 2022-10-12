@@ -13,10 +13,17 @@
 
 
 #### Literatur
-* Foundations of Statistical Natural Language by Manning & Schütze
+* Foundations of Statistical Natural Language by Manning & Schütze 
+in
 [**pdf**](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
+and
 [**website**](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
-* [Speech and_Language_Processing_Jurafsky_Martin (**third draft**)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+* Speech and Language Processing by Jurafksy & Martin 
+in 
+[pdf](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+and
+[website]([https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf](https://web.stanford.edu/~jurafsky/slp3/))
+
 
 
 
