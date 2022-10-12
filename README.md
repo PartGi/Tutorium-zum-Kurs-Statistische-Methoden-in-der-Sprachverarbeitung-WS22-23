@@ -13,9 +13,11 @@
 
 
 #### Literatur
-* [Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
-* [Speech and_Language_Processing_Jurafsky_Martin (**third draft**)](https://web.stanford.edu/~jurafsky/slp3/)
-* [Speech and_Language_Processing_Jurafsky_Martin (first draft)](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Speech_and_Language_Processing_Jurafsky_Martin.pdf)
+* Foundations of Statistical Natural Language by Manning & Schütze
+[**pdf**](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
+[**website**](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
+* [Speech and_Language_Processing_Jurafsky_Martin (**third draft**)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+
 
 
 
