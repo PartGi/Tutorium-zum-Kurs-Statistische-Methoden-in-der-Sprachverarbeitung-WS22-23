@@ -12,9 +12,10 @@
 * [Kursseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
 
 
-#### Literatur in PDF
+#### Literatur
 * [Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
-* [Speech_and_Language_Processing_Jurafsky_Martin.pdf](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Speech_and_Language_Processing_Jurafsky_Martin.pdf)
+* [Speech and_Language_Processing_Jurafsky_Martin (**third draft**)](https://web.stanford.edu/~jurafsky/slp3/)
+* [Speech and_Language_Processing_Jurafsky_Martin (first draft)](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Speech_and_Language_Processing_Jurafsky_Martin.pdf)
 
 
 
@@ -23,6 +24,7 @@
 
 |    Datum      |    Folien    |    Anmerkungen    |
 |---------------|:------------:|------------------:|
-| Juicy Apples  |  1.99        |        739        |
-| Bananas       |  1.89        |          6        |
+| xx.xx.xx  |  Blablabla       |        Blablabla        |
+| xx.xx.xx       |  Blablabla        |          Blablabla        |
+| xx.xx.xx       |  Blablabla        |          Blablabla        |
 
