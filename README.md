@@ -1,9 +1,14 @@
 # Tutorium zum Kurs "Statistische Methoden in der Sprachverarbeitung" - WS 22/23
 
 * Tutor: Ioannis Partalas
-* Kontakt: i.partalas@campus.lmu.de
+* Kontakt: tutorium.snlp@gmail.com
+
 
 #### Info
+* Das Tutorium findet TAG, UHRZEIT per Zoom statt.
+* Zoomlink (hyperlink hinzufügen!)
+* Fragensammlung : Schreibt eure Fragen hier am besten 2-3 Tage vor dem Tutorium. (hyperlink hinzufügen!)
+* Wunschliste: Wünsche und Feedback (hyperlink hinzufügen!)
 * [Kursseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
 
 
@@ -13,6 +18,7 @@
 
 
 
+#### Materialien
 
 
 |    Datum      |    Folien    |    Anmerkungen    |
