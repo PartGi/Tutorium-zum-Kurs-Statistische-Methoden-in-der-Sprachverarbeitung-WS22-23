@@ -22,7 +22,7 @@ and
 in 
 [**pdf**](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 and
-[**website**]([https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf](https://web.stanford.edu/~jurafsky/slp3/))
+[**website**](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf](https://web.stanford.edu/~jurafsky/slp3/)
 
 
 
