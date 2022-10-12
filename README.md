@@ -12,13 +12,13 @@
 * [Speech_and_Language_Processing_Jurafsky_Martin.pdf](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Speech_and_Language_Processing_Jurafsky_Martin.pdf)
 
 
+
+
 <div align="center">
-<table>
 
-| Datum | Folien | Anmerkungen
-| ----------- | ----------- |
-| Header | Title | Sonstiges
-| Paragraph | Text | Sonstiges
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
 
-</table>
 </div>
