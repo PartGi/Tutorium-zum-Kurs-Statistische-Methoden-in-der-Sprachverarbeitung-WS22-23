@@ -17,7 +17,7 @@
 in
 [**pdf**](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
 and
-[**website**](https://github.com/i-partalas/Tutorium-zum-Kurs-Statistische-Methoden-in-der-Sprachverarbeitung-WS22-23/blob/main/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf)
+[**website**](https://nlp.stanford.edu/fsnlp/)
 * Speech and Language Processing by Jurafksy & Martin 
 in 
 [**pdf**](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
