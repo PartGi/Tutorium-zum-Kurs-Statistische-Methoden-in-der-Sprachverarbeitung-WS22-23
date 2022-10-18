@@ -7,7 +7,7 @@
 #### Info
 * Das Tutorium findet TAG, UHRZEIT per Zoom statt.
 * Zoomlink (hyperlink hinzufügen!)
-* [Fragensammlung](https://docs.google.com/presentation/d/1PtLH4FiBXF-cIpCbascJX2BPiTPZQwFgXCV53HO0fkI/edit#slide=id.g16cf0e511f5_0_234):Schreibt eure Fragen hier am besten 2-3 Tage vor dem Tutorium. 
+* [Fragensammlung](https://docs.google.com/presentation/d/1PtLH4FiBXF-cIpCbascJX2BPiTPZQwFgXCV53HO0fkI/edit#slide=id.g16cf0e511f5_0_234): Schreibt eure Fragen hier am besten 2-3 Tage vor dem Tutorium. 
 * [Wunschliste](https://docs.google.com/document/d/14pKfMMT5BBFiyn2Jm4VLVN-TsLol-65msfauLyGSnak/edit): Wünsche und Feedback (hyperlink hinzufügen!)
 * [Kursseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
 
