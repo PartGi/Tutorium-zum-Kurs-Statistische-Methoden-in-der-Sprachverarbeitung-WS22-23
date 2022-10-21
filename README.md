@@ -5,8 +5,8 @@
 
 
 #### Info
-* Das Tutorium findet TAG, UHRZEIT per Zoom statt.
-* Zoomlink (hyperlink wird hinzugefügt)
+* Das Tutorium findet mittwochs um 19:15-20:45 per Zoom statt.
+* [Zoomlink](https://lmu-munich.zoom.us/j/9396043336?pwd=SjhoY25OUm8vY0lPMEVobkVJVk1TZz09)
 * [Fragensammlung](https://docs.google.com/presentation/d/1PtLH4FiBXF-cIpCbascJX2BPiTPZQwFgXCV53HO0fkI/edit#slide=id.p): Schreibt eure Fragen hier am besten 2-3 Tage vor dem Tutorium. 
 * [Wunschliste](https://docs.google.com/document/d/14pKfMMT5BBFiyn2Jm4VLVN-TsLol-65msfauLyGSnak/edit): Wünsche und Feedback.
 * [Kursseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
@@ -33,7 +33,5 @@ and
 
 |    Datum      |    Folien    |    Anmerkungen    |
 |---------------|:------------:|------------------:|
-| xx.xx.xx       |          |                |
-| xx.xx.xx       |          |                  |
-| xx.xx.xx       |          |                  |
+| 26.10.2022       |          |                |
 
