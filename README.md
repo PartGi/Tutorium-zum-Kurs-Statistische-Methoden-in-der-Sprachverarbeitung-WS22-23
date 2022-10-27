@@ -33,5 +33,8 @@ and
 
 |    Datum      |    Folien    |    Anmerkungen    |
 |---------------|:------------:|------------------:|
-| 26.10.2022       |          |                |
+| 26.10.2022       | Tutorium 1 (https://drive.google.com/file/d/1YY6kD8uD-LjnsY6JUIT2eQUapV35-iD_/view?usp=sharing) | Vorlesungsfolien Seiten 1-48 abgehandelt               |
+| 02.11.2022       |          |                |
+| 09.11.2022       |          |                |
+| 16.11.2022       |          |                |
 
