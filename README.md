@@ -3,6 +3,10 @@
 * Tutor: Ioannis Partalas
 * Kontakt: tutorium.snlp@gmail.com
 
+#### Ankündigung
+
+Das Tutorium am 02.11 wird krankheitsbedingt auf Montag (07.11) um 09:00 c.t. verschoben werden.
+
 
 #### Info
 * Das Tutorium findet mittwochs von 19:15 bis 20:45 per Zoom statt.
@@ -34,7 +38,7 @@ and
 |    Datum      |    Folien    |    Anmerkungen    |
 |---------------|:------------:|------------------:|
 | 26.10.2022       | [Tutorium 1](https://drive.google.com/file/d/1twNaT7mLSJ7pOCdGi75mIFqwAFKO8bTB/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 1-48 |
-| 02.11.2022       |          |                |
+| 07.11.2022       |          |                |
 | 09.11.2022       |          |                |
 | 16.11.2022       |          |                |
 | 23.11.2022       |          |                |
