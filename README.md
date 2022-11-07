@@ -10,7 +10,7 @@ Das Tutorium am 02.11 wird krankheitsbedingt auf Montag (07.11) um 09:00 c.t. ve
 
 #### Info
 * Das Tutorium findet mittwochs von 19:15 bis 20:45 per Zoom statt.
-* [Zoomlink](https://lmu-munich.zoom.us/j/9396043336?pwd=SjhoY25OUm8vY0lPMEVobkVJVk1TZz09)
+* [Zoomlink](https://lmu-munich.zoom.us/j/99655860874?pwd=a0pRL0xRdy9TSlFEQmJhWXlBalJlUT09)
 * [Fragensammlung](https://docs.google.com/presentation/d/1PtLH4FiBXF-cIpCbascJX2BPiTPZQwFgXCV53HO0fkI/edit#slide=id.p): Schreibt eure Fragen hier am besten 2-3 Tage vor dem Tutorium. 
 * [Wunschliste](https://docs.google.com/document/d/14pKfMMT5BBFiyn2Jm4VLVN-TsLol-65msfauLyGSnak/edit): Wünsche und Feedback.
 * [Kursseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
