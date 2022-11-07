@@ -38,7 +38,7 @@ and
 |    Datum      |    Folien    |    Anmerkungen    |
 |---------------|:------------:|------------------:|
 | 26.10.2022       | [Tutorium 1](https://drive.google.com/file/d/1twNaT7mLSJ7pOCdGi75mIFqwAFKO8bTB/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 1-48 |
-| 07.11.2022       | [Tutorium 2](https://drive.google.com/file/d/1Q45_LhkITkvL01AxcUVyqoN9oe-o2I1u/view?usp=sharing)       | Abgedeckter Lehrstoff: Seiten 49-69               |
+| 07.11.2022       | [Tutorium 2](https://drive.google.com/file/d/1-KJBrE1AzB0VT8uiBk0Olkfr3PARnI6d/view?usp=sharing)       | Abgedeckter Lehrstoff: Seiten 49-69               |
 | 09.11.2022       | [Tutorium 3](https://drive.google.com/file/d/1aTkFiE_QvbhLKVnx5ejV9wmT8_nOc6a5/view?usp=sharing)         | Abgedeckter Lehrstoff: Seiten 70-92               |
 | 16.11.2022       |          |                |
 | 23.11.2022       |          |                |
