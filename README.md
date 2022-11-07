@@ -4,8 +4,8 @@
 * Kontakt: tutorium.snlp@gmail.com
 
 #### Ankündigung
-
-Das Tutorium am 02.11 wird krankheitsbedingt auf Montag (07.11) um 09:00 c.t. verschoben werden.
+* Am 09.11 wird das Thema "Statistische Tests" vorgestellt (also das Thema des 2ten Tutoriums).
+* Das Tutorium am 02.11 wird krankheitsbedingt auf Montag (07.11) um 09:00 c.t. verschoben werden.
 
 
 #### Info
