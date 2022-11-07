@@ -3,7 +3,7 @@
 * Tutor: Ioannis Partalas
 * Kontakt: tutorium.snlp@gmail.com
 
-#### Ankündigung
+#### Ankündigungen
 * Am 09.11 wird das Thema "Statistische Tests" vorgestellt (also das Thema des 2ten Tutoriums).
 * Das Tutorium am 02.11 wird krankheitsbedingt auf Montag (07.11) um 09:00 c.t. verschoben werden.
 
@@ -31,9 +31,9 @@ and
 
 
 
-
 #### Materialien
 
+* [**Gesamtdatei**](https://drive.google.com/file/d/1Qld1a1t9TZXzYLs6ePQMR0Tbgabx4KMp/view?usp=sharing)
 
 |    Datum      |    Folien    |    Anmerkungen    |
 |---------------|:------------:|------------------:|
