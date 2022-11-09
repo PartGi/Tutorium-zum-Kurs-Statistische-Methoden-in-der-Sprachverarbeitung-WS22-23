@@ -4,7 +4,7 @@
 * Kontakt: tutorium.snlp@gmail.com
 
 #### Ankündigungen
-* Die Gesamtdatei wird immer als erste aktualisiert, daher empfiehlt es sich diese öfters herunterzuladen um auf den aktuellsten Stand bleiben zu können.
+* Die Gesamtdatei wird immer als erste aktualisiert, daher empfiehlt es sich diese öfters herunterzuladen, um auf den aktuellsten Stand bleiben zu können.
 * Am 09.11 wird das Thema "Statistische Tests" vorgestellt (also das Thema des 2ten Tutoriums).
 * Das Tutorium am 02.11 wird krankheitsbedingt auf Montag (07.11) um 09:00 c.t. verschoben werden.
 
