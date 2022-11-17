@@ -39,9 +39,9 @@ and
 |    Datum      |    Folien    |    Anmerkungen    |
 |:---------------:|:------------:|:------------------:|
 | 26.10.2022       | [Tutorium 1](https://drive.google.com/file/d/1twNaT7mLSJ7pOCdGi75mIFqwAFKO8bTB/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 1-48 |
-| 07.11.2022       | [Tutorium 2](https://drive.google.com/file/d/1UAWJ22a_aSIVvUDW0o2-TgxPxZRiq0ra/view?usp=sharing)       | Abgedeckter Lehrstoff: Seiten 49-69               |
-| 09.11.2022       | [Tutorium 3](https://drive.google.com/file/d/1BEGJz8LOiilZZCWk0yE4eeI13ws0pdE8/view?usp=sharing)         | Abgedeckter Lehrstoff: Seiten 70-92               |
-| 16.11.2022       | [Tutorium 4](https://drive.google.com/file/d/1u-C-69S_ywTWa9tJVRSX4EP8En8kDQv0/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 93-108 | 
+| 07.11.2022       | [Tutorium 2](https://drive.google.com/file/d/1Xydqj_9axqJojwq4nSrjAzhPozXgYXYv/view?usp=sharing)       | Abgedeckter Lehrstoff: Seiten 49-69               |
+| 09.11.2022       | [Tutorium 3](https://drive.google.com/file/d/15eJBSf0FW9B5Rd_TkrD25_7j8SCapE9j/view?usp=sharing)         | Abgedeckter Lehrstoff: Seiten 70-92               |
+| 16.11.2022       | [Tutorium 4](https://drive.google.com/file/d/17OGUaRrYYLXVcRX1aZkcC568kFpRoxjT/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 93-108 | 
 | 23.11.2022       |          |                |
 | 30.11.2022       |          |                |
 | 07.12.2022       |          |                |
