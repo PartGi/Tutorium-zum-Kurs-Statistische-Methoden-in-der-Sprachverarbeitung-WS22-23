@@ -34,7 +34,7 @@ and
 
 #### Materialien
 
-* [**Gesamtdatei**](https://drive.google.com/file/d/1VWsYSROmRSvvIagSJ7CFOlh_hpQ3SsBI/view?usp=sharing)
+* [**Gesamtdatei**](https://drive.google.com/file/d/1Mh0AR-b6effKw82g_cX38y7ELvk1N7DJ/view?usp=sharing)
 * [**Alte Vorlesungsklausuraufgaben**](https://docs.google.com/document/d/1VbOfzU69teEaeZIPohBYILRE-pa6Y-qcnkCvvnY-8-U/edit?usp=sharing)
 
 |    Datum      |    Folien    |    Anmerkungen    |
@@ -44,7 +44,7 @@ and
 | 09.11.2022       | [Tutorium 3](https://drive.google.com/file/d/14QRqg361tdwOWhW7pWKD4vF0lYqrT_CT/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 70-92               |
 | 16.11.2022       | [Tutorium 4](https://drive.google.com/file/d/1SMc5E11EIjbm5oWgrU2fwv2Kgi1luNpR/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 93-107 | 
 | 23.11.2022       | [Tutorium 5](https://drive.google.com/file/d/1_ClPFLK0XGaFKgpA4ykoFDfTeAaRjvEe/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 108-122 |
-| 30.11.2022       | Tutorium 6         | Abgedeckter Lehrstoff: Seiten 123-XX    |
+| 30.11.2022       | [Tutorium 6](https://drive.google.com/file/d/1oxeg-PTQUIP22JmPmtDmCRte-OUFk7SX/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 123-143    |
 | 07.12.2022       | Tutorium 7         | Abgedeckter Lehrstoff: Seiten XX-XX     |
 | 14.12.2022       | Tutorium 8         | Abgedeckter Lehrstoff: Seiten XX-XX     |
 | 21.12.2022       | Tutorium 9         | Abgedeckter Lehrstoff: Seiten XX-XX     |
