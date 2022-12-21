@@ -47,5 +47,6 @@ and
 | 23.11.2022       | [Tutorium 5](https://drive.google.com/file/d/1_ClPFLK0XGaFKgpA4ykoFDfTeAaRjvEe/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 108-122 |
 | 30.11.2022       | [Tutorium 6](https://drive.google.com/file/d/1oxeg-PTQUIP22JmPmtDmCRte-OUFk7SX/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 123-143    |
 | 07.12.2022       | [Tutorium 7](https://drive.google.com/file/d/1NJlxCcAO3J_oeFZ6VO5ggrbn-KAJGqT8/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 144-172     |
-| 14.12.2022       | [Tutorium 8](https://drive.google.com/file/d/1cH0NgBt1sE9Mh__KVIXe9LfCUjIsdIZ7/view?usp=sharing) [Code für Forward, Backward und Estimate Freq auf Trigramme- und Bigramme-Ebene](https://drive.google.com/file/d/1sY-jqDNJSS9a9Xy_l44V1h1i0C_0FMPJ/view?usp=sharing) | Abgedeckter Lehrstoff: Programmieraufgaben 7 & 8 |
+| 14.12.2022       | [Tutorium 8](https://drive.google.com/file/d/1cH0NgBt1sE9Mh__KVIXe9LfCUjIsdIZ7/view?usp=sharing)\ 
+                     [Code für Forward, Backward und Estimate Freq auf Trigramme- und Bigramme-Ebene](https://drive.google.com/file/d/1sY-jqDNJSS9a9Xy_l44V1h1i0C_0FMPJ/view?usp=sharing) | Abgedeckter Lehrstoff: Programmieraufgaben 7 & 8 |
 | 21.12.2022       | [Tutorium 9](https://drive.google.com/file/d/1-zaUoRNswOYHFB_tMvk9Bi4qEpaF1maR/view?usp=sharing)         | Abgedeckter Lehrstoff: Seiten 173-203     |
