@@ -50,7 +50,7 @@ and
 | 14.12.2022       | [Tutorium 8](https://drive.google.com/file/d/1fgsFlflCWxG-Czrbn5Rt8f0rLhTX4RA-/view?usp=sharing) <br />[Code für Forward, Backward und Estimate Freq auf Trigramme- und Bigramme-Ebene](https://drive.google.com/file/d/1sY-jqDNJSS9a9Xy_l44V1h1i0C_0FMPJ/view?usp=sharing) | Abgedeckter Lehrstoff: Aufgaben 7 & 8 |                                                                                              
 | 21.12.2022       | [Tutorium 9](https://drive.google.com/file/d/1z2fUgPOLH-ga9pQJevjoiOXmH5UTlTBD/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 173-203     |
 | 11.01.2023       | [Tutorium 10](https://drive.google.com/file/d/1St71N1QdLcsRZk_FusbeygcA67nOIQO_/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 204-252 |
-| 18.01.2023       | Tutorium 11 | Abgedeckter Lehrstoff: Seiten XX-XX |
+| 18.01.2023       | Tutorium 11 <br />[Aufgabe 9](https://docs.google.com/spreadsheets/d/1cd0JG3KY9EvZ8LOIIvOPyaQlkn6JwD6KTF8XUcTvxd0/edit?usp=sharing) | Abgedeckter Lehrstoff: Seiten XX-XX |
 | 25.01.2023       | Tutorium 12 | Abgedeckter Lehrstoff: Seiten Perzeptron |
 | 01.02.2023       | Tutorium 13 | Abgedeckter Lehrstoff: Seiten CRF |
 | 08.02.2023       | Tutorium 14 | Wiederholung |
