@@ -4,6 +4,7 @@
 * Kontakt: tutorium.snlp@gmail.com
 
 #### Ankündigungen
+* 🔥NEUE Tutorium-Zeit **18:30-20:00**🔥
 * Das Tutorium wird am 14.12.22 eine Stunde früher stattfinden.
 * Die Gesamtdatei wird immer als erste aktualisiert, daher empfiehlt es sich diese öfters herunterzuladen, um auf den aktuellsten Stand bleiben zu können.
 * Am 09.11 wird das Thema "Statistische Tests" vorgestellt (also das Thema des 2ten Tutoriums).
@@ -11,7 +12,7 @@
 
 
 #### Info
-* Das Tutorium findet mittwochs von 19:15 bis 20:45 per Zoom statt.
+* Das Tutorium findet mittwochs von 18:30 bis 20:00 per Zoom statt.
 * [Zoomlink](https://lmu-munich.zoom.us/j/99655860874?pwd=a0pRL0xRdy9TSlFEQmJhWXlBalJlUT09)
 * [Fragensammlung](https://docs.google.com/presentation/d/1PtLH4FiBXF-cIpCbascJX2BPiTPZQwFgXCV53HO0fkI/edit#slide=id.p): Schreibt eure Fragen hier am besten 2-3 Tage vor dem Tutorium. 
 * [Wunschliste](https://docs.google.com/document/d/14pKfMMT5BBFiyn2Jm4VLVN-TsLol-65msfauLyGSnak/edit): Wünsche und Feedback.
@@ -47,10 +48,10 @@ and
 | 23.11.2022       | [Tutorium 5](https://drive.google.com/file/d/1_ClPFLK0XGaFKgpA4ykoFDfTeAaRjvEe/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 108-122 |
 | 30.11.2022       | [Tutorium 6](https://drive.google.com/file/d/1oxeg-PTQUIP22JmPmtDmCRte-OUFk7SX/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 123-143    |
 | 07.12.2022       | [Tutorium 7](https://drive.google.com/file/d/1NJlxCcAO3J_oeFZ6VO5ggrbn-KAJGqT8/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 144-172     |
-| 14.12.2022       | [Tutorium 8](https://drive.google.com/file/d/1fgsFlflCWxG-Czrbn5Rt8f0rLhTX4RA-/view?usp=sharing) <br /><br />[[Code für Forward, Backward und Estimate Freq auf Trigramme- und Bigramme-Ebene](https://drive.google.com/file/d/1sY-jqDNJSS9a9Xy_l44V1h1i0C_0FMPJ/view?usp=sharing) | Abgedeckter Lehrstoff: Aufgaben 7 & 8 |                                                                                              
+| 14.12.2022       | [Tutorium 8](https://drive.google.com/file/d/1fgsFlflCWxG-Czrbn5Rt8f0rLhTX4RA-/view?usp=sharing) <br /><br />[Code für Forward, Backward und Estimate Freq auf Trigramme- und Bigramme-Ebene](https://drive.google.com/file/d/1sY-jqDNJSS9a9Xy_l44V1h1i0C_0FMPJ/view?usp=sharing) | Abgedeckter Lehrstoff: Aufgaben 7 & 8 |                                                                                              
 | 21.12.2022       | [Tutorium 9](https://drive.google.com/file/d/1z2fUgPOLH-ga9pQJevjoiOXmH5UTlTBD/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 173-203     |
 | 11.01.2023       | [Tutorium 10](https://drive.google.com/file/d/1St71N1QdLcsRZk_FusbeygcA67nOIQO_/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 204-252 |
-| 18.01.2023       | Tutorium 11 <br /><br />[[Aufgabe 9](https://docs.google.com/spreadsheets/d/1cd0JG3KY9EvZ8LOIIvOPyaQlkn6JwD6KTF8XUcTvxd0/edit?usp=sharing) | Abgedeckter Lehrstoff: Seiten XX-XX |
+| 18.01.2023       | Tutorium 11 <br /><br />[Aufgabe 9](https://docs.google.com/spreadsheets/d/1cd0JG3KY9EvZ8LOIIvOPyaQlkn6JwD6KTF8XUcTvxd0/edit?usp=sharing) | Abgedeckter Lehrstoff: Seiten XX-XX |
 | 25.01.2023       | Tutorium 12 | Abgedeckter Lehrstoff: Seiten Perzeptron |
 | 01.02.2023       | Tutorium 13 | Abgedeckter Lehrstoff: Seiten CRF |
 | 08.02.2023       | Tutorium 14 | Wiederholung |
