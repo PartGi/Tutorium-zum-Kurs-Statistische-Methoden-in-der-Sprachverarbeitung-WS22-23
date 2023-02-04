@@ -4,8 +4,9 @@
 * Kontakt: tutorium.snlp@gmail.com
 
 #### Ankündigungen
-* 🔥Das Tutorium vom 01.02.23 wird auf 15.02.23 (nach unserer Absprache am 25.01.23) verschoben.🔥
-* 🔥Es wird ein zusätzliches Tutorium angeboten, dessen Datum von einer Umfrage bestimmt wird.🔥
+* 🔥Das zusätzliche Tutorium wird am 18.02.23 um 12 Uhr stattfinden.🔥
+* Das Tutorium vom 01.02.23 wird auf 15.02.23 (nach unserer Absprache am 25.01.23) verschoben.
+* Es wird ein zusätzliches Tutorium angeboten, dessen Datum von einer Umfrage bestimmt wird.
 * NEUE Tutorium-Zeit **18:30-20:00**
 * Das Tutorium wird am 14.12.22 eine Stunde früher stattfinden.
 * Die Gesamtdatei wird immer als erste aktualisiert, daher empfiehlt es sich diese öfters herunterzuladen, um auf den aktuellsten Stand bleiben zu können.
@@ -57,6 +58,6 @@ and
 | 25.01.2023       | [Tutorium 12](https://drive.google.com/file/d/14VaMWHqr1sy3tjSyheSODzerSRRo2__J/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 253-285 |
 | 08.02.2023       | Tutorium 13 | Abgedeckter Lehrstoff: Seiten 286-307 |
 | 15.02.2023       | Tutorium 14 | Wiederholung |
-| to be defined    | Zusätzliches Tutorium | Übungen |
+| 18.02.2023    | Zusätzliches Tutorium | Übungen |
 
 
