@@ -39,7 +39,7 @@ and
 
 #### Materialien
 
-* [**Gesamtdatei**](https://drive.google.com/file/d/14nae-BE4qYje0L9si0DEEMyigSevCAa2/view?usp=sharing)
+* [**Gesamtdatei**](https://drive.google.com/file/d/1ZyY_tNNkxzfPTsn1FSldI9vZEu4H9NcT/view?usp=sharing)
 * [**Alte Vorlesungsklausuraufgaben**](https://docs.google.com/document/d/1VbOfzU69teEaeZIPohBYILRE-pa6Y-qcnkCvvnY-8-U/edit?usp=sharing)
 
 |    Datum      |    Folien    |    Anmerkungen    |
@@ -56,8 +56,8 @@ and
 | 11.01.2023       | [Tutorium 10](https://drive.google.com/file/d/1St71N1QdLcsRZk_FusbeygcA67nOIQO_/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 204-252 |
 | 18.01.2023       | [Tutorium 11](https://drive.google.com/file/d/1USMpSDk8pjH5RXfwPfhB3fTWHvodKzCg/view?usp=sharing) <br /><br />[Aufgabe 9](https://docs.google.com/spreadsheets/d/1cd0JG3KY9EvZ8LOIIvOPyaQlkn6JwD6KTF8XUcTvxd0/edit?usp=sharing) | Abgedeckter Lehrstoff: Left-Corner Parser & Aufgabe 9 |
 | 25.01.2023       | [Tutorium 12](https://drive.google.com/file/d/14VaMWHqr1sy3tjSyheSODzerSRRo2__J/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 253-285 |
-| 08.02.2023       | [Tutorium 13](https://drive.google.com/file/d/1uvMBIdfWpxeZgPVqq7bTlHAjuvZNXPeN/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 286-307 |
-| 15.02.2023       | Tutorium 14 | Wiederholung |
+| 08.02.2023       | [Tutorium 13](https://drive.google.com/file/d/1eAi6kNKYNyBqTrIgPdDx7P3I0tsrPSw3/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 286-307 |
+| 15.02.2023       | [Tutorium 14](https://drive.google.com/file/d/1QuIsl7B6dsQEWxpJJvKkMs2qDA3e_OkK/view?usp=sharing) | Wiederholung |
 | 18.02.2023    | Zusätzliches Tutorium | Übungen |
 
 
