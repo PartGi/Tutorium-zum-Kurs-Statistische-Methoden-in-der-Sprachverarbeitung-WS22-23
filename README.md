@@ -39,7 +39,7 @@ and
 
 #### Materialien
 
-* [**Gesamtdatei**](https://drive.google.com/file/d/1ZyY_tNNkxzfPTsn1FSldI9vZEu4H9NcT/view?usp=sharing)
+* [**Gesamtdatei**](https://drive.google.com/file/d/1D0Eo4HG6K8H51VEYOJI6bivWq8CrSefn/view?usp=sharing)
 * [**Alte Vorlesungsklausuraufgaben**](https://docs.google.com/document/d/1VbOfzU69teEaeZIPohBYILRE-pa6Y-qcnkCvvnY-8-U/edit?usp=sharing)
 
 |    Datum      |    Folien    |    Anmerkungen    |
@@ -52,12 +52,11 @@ and
 | 30.11.2022       | [Tutorium 6](https://drive.google.com/file/d/1oxeg-PTQUIP22JmPmtDmCRte-OUFk7SX/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 123-143    |
 | 07.12.2022       | [Tutorium 7](https://drive.google.com/file/d/1NJlxCcAO3J_oeFZ6VO5ggrbn-KAJGqT8/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 144-172     |
 | 14.12.2022       | [Tutorium 8](https://drive.google.com/file/d/1fgsFlflCWxG-Czrbn5Rt8f0rLhTX4RA-/view?usp=sharing) <br /><br />[Code für Forward, Backward und Estimate Freq auf Trigramme- und Bigramme-Ebene](https://drive.google.com/file/d/1sY-jqDNJSS9a9Xy_l44V1h1i0C_0FMPJ/view?usp=sharing) | Abgedeckter Lehrstoff: Aufgaben 7 & 8 |                                                                                              
-| 21.12.2022       | [Tutorium 9](https://drive.google.com/file/d/1z2fUgPOLH-ga9pQJevjoiOXmH5UTlTBD/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 173-203     |
+| 21.12.2022       | [Tutorium 9](https://drive.google.com/file/d/12-kiSWsfRprobLyrF-UkIAevt9vR-KqZ/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 173-203     |
 | 11.01.2023       | [Tutorium 10](https://drive.google.com/file/d/1St71N1QdLcsRZk_FusbeygcA67nOIQO_/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 204-252 |
 | 18.01.2023       | [Tutorium 11](https://drive.google.com/file/d/1USMpSDk8pjH5RXfwPfhB3fTWHvodKzCg/view?usp=sharing) <br /><br />[Aufgabe 9](https://docs.google.com/spreadsheets/d/1cd0JG3KY9EvZ8LOIIvOPyaQlkn6JwD6KTF8XUcTvxd0/edit?usp=sharing) | Abgedeckter Lehrstoff: Left-Corner Parser & Aufgabe 9 |
 | 25.01.2023       | [Tutorium 12](https://drive.google.com/file/d/14VaMWHqr1sy3tjSyheSODzerSRRo2__J/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 253-285 |
 | 08.02.2023       | [Tutorium 13](https://drive.google.com/file/d/1eAi6kNKYNyBqTrIgPdDx7P3I0tsrPSw3/view?usp=sharing) | Abgedeckter Lehrstoff: Seiten 286-307 |
 | 15.02.2023       | [Tutorium 14](https://drive.google.com/file/d/1QuIsl7B6dsQEWxpJJvKkMs2qDA3e_OkK/view?usp=sharing) | Wiederholung |
-| 18.02.2023    | Zusätzliches Tutorium | Übungen |
-
+| 18.02.2023    | [Zusätzliches Tutorium](https://drive.google.com/file/d/1UlqHfEldbnYHw2422UNakC9d9jfYdmUE/view?usp=sharing) | Fragen und Übungen |
 
